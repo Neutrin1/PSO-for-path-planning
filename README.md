@@ -1,1 +1,3 @@
-直接运行main.py即可
+run main.py
+then you get a result
+:)
